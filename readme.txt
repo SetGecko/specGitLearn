@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-My superrr web site kva
-=======
-My super web site kvakva
->>>>>>> iss57
+My superrr web site kvakva
